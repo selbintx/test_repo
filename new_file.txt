@@ -1,4 +1,6 @@
 Creating a new file in local repo
 adding another line for confict with local
 This line is added locally to create a conflict
+Adding line online for conflict
 Adding line locally for conflict
+
