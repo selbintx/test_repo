@@ -5,4 +5,4 @@ Adding line online for conflict
 Adding line locally for conflict
 Adding new locally for conflict
 Adding new line online for conflict
-
+8.created a new line from my branch locally
