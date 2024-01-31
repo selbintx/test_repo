@@ -3,4 +3,4 @@ adding another line for confict with local
 This line is added locally to create a conflict
 Adding line online for conflict
 Adding line locally for conflict
-
+Adding new line locally for confict
