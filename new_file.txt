@@ -9,8 +9,6 @@ Adding new line online for conflict
 9. Creating a new line in the master
 10. Creating a new line in the master
 11. Creating a new line in the master
-
-
 8.created a new line from my branch locally
 9.created a new line from my_test_branch_locally
 10.create a new line from my_test_branch_locally
